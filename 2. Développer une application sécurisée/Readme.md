@@ -1,4 +1,4 @@
-## Développer une application sécurisée
+# Développer une application sécurisée
 
 ### Écrire un algorithme
 

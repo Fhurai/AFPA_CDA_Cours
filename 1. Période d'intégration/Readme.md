@@ -1,4 +1,4 @@
-## Période d'intégration
+# Période d'intégration
 
 ### Période d'intégration
 
