@@ -15,3 +15,9 @@
 ## Préparer l'application au déploiement dans le cadre d'une démarche DevOps
 
 ## Automatiser les tests d'intégration et systèmes, créer le script d’Intégration Continue dans le cadre d’une démarche Devops
+
+[Voir "Sujet ECF DEVOPS"](ECF%20JAVA%20-%20CAHIER%20DES%20CHARGES%20DEVOPS.pdf)
+[Voir "Cours Général CI/CD"](1_CDA_INTEGRATION_DEPLOIEMENT_CONTINU_JBO.pdf)
+[Voir "Cours Présentation Linux"](CDA_LINUX_JBO.pdf)
+[Voir "Github Actions"](CDA_GitHub_Actions_v1.pdf)
+[Voir "Github Actions v2"](CDA_GitHub_Actions_v2.pdf)
